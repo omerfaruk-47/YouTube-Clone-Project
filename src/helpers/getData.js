@@ -3,7 +3,7 @@ import axios from "axios";
 // istek için gerekli ayarlar
 const options = {
   headers: {
-    "X-RapidAPI-Key": "18600bbc6fmsh0351fead3b2aab5p1acde8jsnbba0f4f55db1",
+    "X-RapidAPI-Key": import.meta.env.VITE_API_KEY,
     "X-RapidAPI-Host": "yt-api.p.rapidapi.com",
   },
   params: {
