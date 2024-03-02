@@ -46,5 +46,3 @@ A card component representing each video. Provides an interface for users to see
 <h2>Screenshots</h2>
 
 ![](/public/Youtube%20Clone.gif)
-# YouTube-Clone-Project
-# Youtube-Clone-Project
